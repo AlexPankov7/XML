@@ -1,1 +1,8 @@
 
+<?xml version="1.0"?>
+<Bug_report>
+  <ID>777</ID>
+  <Summary>User cannot clear the form with "Clear" button</Summary>
+  <Steps_to_reproduce> 1.Go to the web site https://www.my_little_site.fi 2. Push the button 'LogIn'</Steps_to_reproduce>
+  <Author>Aleksei Pankov</Author>
+</Bug_report>
